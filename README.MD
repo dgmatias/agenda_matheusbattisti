@@ -6,10 +6,11 @@ nele eu fiz uma agenda com php e mysql, onde o principal objetivo é fazer um um
 ## Tecnologias
 
 <ul>
+  <li> Html </li>
+  <li> Css </li>
   <li> Php </li>
   <li> Mysql </li>
-  <li> Css </li>
-  <li> bootstrap </li>
+  <li> Bootstrap </li>
 </ul>
 
 ## Ide
