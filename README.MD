@@ -18,4 +18,4 @@ Visual Studio Code
 
 ## Sgbd
 
-Php My Admin
+PhpMyAdmin
