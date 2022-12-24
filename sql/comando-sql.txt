@@ -1,0 +1,10 @@
+create database agenda;
+
+use agenda;
+
+create table contacts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name varchar(150),
+    phone varchar(20),
+    observations text
+);
